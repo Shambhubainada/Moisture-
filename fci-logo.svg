@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+ <circle cx="60" cy="60" r="57" fill="#fff" stroke="#0b5d36" stroke-width="4"/>
+ <g fill="none" stroke="#0b5d36" stroke-width="4" stroke-linecap="round">
+  <path d="M28 82 Q60 52 92 82"/>
+  <path d="M37 76 Q28 61 39 42 Q53 58 45 73"/>
+  <path d="M83 76 Q92 61 81 42 Q67 58 75 73"/>
+  <path d="M60 78 V35"/>
+ </g>
+ <text x="60" y="101" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#0b5d36">FCI</text>
+</svg>
